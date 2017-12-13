@@ -2,11 +2,11 @@ import React from 'react'
 
 import { shallow } from 'enzyme'
 
-import Layout from './'
+import Title from './title'
 
-describe('component Layout', () =>
+describe('component Title', () =>
   it('should render', () => {
-    const component = shallow(<Layout />)
+    const component = shallow(<Title text="text" />)
 
     expect(component).toMatchSnapshot()
   }))
