@@ -1,0 +1,16 @@
+.home {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+.home__logo {
+  align-items: center;
+  border-radius: 50%;
+  box-shadow: 0 0 10px 2px #bbb;
+  display: flex;
+  height: 200px;
+  justify-content: center;
+  width: 200px;
+}

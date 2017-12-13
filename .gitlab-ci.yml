@@ -1,0 +1,33 @@
+image: ekino/docker-buildbox:node8.6-2017.11.01
+
+stages:
+  - prepare
+  - test
+
+before_script:
+  - ln -s /usr/share/ca-certificates-host /usr/share/ca-certificates
+  - ln -s /etc/ssl/certs-host /etc/ssl/certs
+  - curl -sL https://github.com/rande/gitlab-ci-helper/releases/download/master/gitlab-ci-helper-linux-amd64 -o /usr/bin/ci-helper && chmod 755 /usr/bin/ci-helper
+  - ci-helper version -e
+  - hashlock=`md5sum yarn.lock | cut -d ' ' -f 1`;
+    (ci-helper s3:extract -ref ${hashlock} -job deps -path=./ || (yarn && ci-helper s3:archive -ref ${hashlock} -job deps -include node_modules));
+
+install:
+  stage: prepare
+  tags: [ek-docker]
+  script:
+    - yarn -v
+
+test_lint:
+  stage: test
+  tags: [ek-docker]
+  script:
+    - yarn lint
+
+test_unit:
+  stage: test
+  tags: [ek-docker]
+  script:
+    - ci-helper s3:extract -ref "jest_cache" -path=./||echo "No jest cache found"
+    - yarn test
+    - ci-helper s3:archive -ref "jest_cache" -include .jest

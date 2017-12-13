@@ -1,0 +1,19 @@
+.menu {
+  display: flex;
+  margin-left: 10px;
+  margin-top: 10px;
+
+  &__item {
+    display: block;
+    margin-left: 10px;
+    text-decoration: none;
+
+    &--active {
+      text-decoration: underline;
+    }
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}

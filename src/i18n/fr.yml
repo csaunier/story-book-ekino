@@ -1,0 +1,12 @@
+menu:
+  home: Accueil
+  example: Exemple
+
+example:
+  content: >
+    Hey ! Je suis une page d'exemple
+
+switchLanguage:
+  fr: Français
+  de: Allemand
+  en: Anglais
