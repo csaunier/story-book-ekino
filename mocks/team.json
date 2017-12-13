@@ -1,0 +1,300 @@
+{
+  "team": [
+    {
+      "name": "Rabaix",
+      "firstName": "Thomas",
+      "location": "paris",
+      "role": "manitou",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Vézien",
+      "firstName": "Loëck",
+      "location": "paris",
+      "role": "archi",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Badruddin",
+      "firstName": "Shahzain",
+      "location": "london",
+      "role": "archi",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Amat",
+      "firstName": "Guillaume",
+      "location": "bordeaux",
+      "role": "senior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Rios Campo",
+      "firstName": "Baptiste",
+      "location": "paris",
+      "role": "senior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Crosnier",
+      "firstName": "Thibault",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Cézard",
+      "firstName": "Antonin",
+      "location": "bordeaux",
+      "role": "confirmed",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Jacquet",
+      "firstName": "Charles",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Soloviev",
+      "firstName": "Andrey",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Pereira",
+      "firstName": "Michel",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Pétré",
+      "firstName": "Jérémy",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Viala",
+      "firstName": "Julien",
+      "location": "bordeaux",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Saunier",
+      "firstName": "Cédric",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Makelele",
+      "firstName": "Josiane",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "female"
+    },
+    {
+      "name": "Sarica",
+      "firstName": "Dilhan",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Rosato",
+      "firstName": "François",
+      "location": "bordeaux",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Langis",
+      "firstName": "Luc Frédéric",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Planchamp",
+      "firstName": "Aude",
+      "location": "paris",
+      "role": "confirmed",
+      "timeshitFucker": false,
+      "gender": "female"
+    },
+    {
+      "name": "Massing",
+      "firstName": "Hugo",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Charpentier",
+      "firstName": "Maxime",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Bigot",
+      "firstName": "Raphaël",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Bigot",
+      "firstName": "Raphaël",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Phuong",
+      "firstName": "Alexis",
+      "location": "bordeaux",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Nory",
+      "firstName": "Maxime",
+      "location": "bordeaux",
+      "role": "junior",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Roger",
+      "firstName": "Domitille",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "female"
+    },
+    {
+      "name": "Cart-Lamy",
+      "firstName": "Jean-Marie",
+      "location": "bordeaux",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Baudart",
+      "firstName": "Mehdi",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Gautier",
+      "firstName": "Adrien",
+      "location": "bordeaux",
+      "role": "junior",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "de Almeida",
+      "firstName": "Valentin",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Arneau",
+      "firstName": "Megan",
+      "location": "bordeaux",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "female"
+    },
+    {
+      "name": "Sadik",
+      "firstName": "Soufiane",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Guillaume",
+      "firstName": "Benoit",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Alberola",
+      "firstName": "Thomas",
+      "location": "bordeaux",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Rose",
+      "firstName": "Kim",
+      "location": "paris",
+      "role": "junior",
+      "timeshitFucker": false,
+      "gender": "female"
+    },
+    {
+      "name": "Assany",
+      "firstName": "Damien",
+      "location": "bordeaux",
+      "role": "trainee",
+      "timeshitFucker": false,
+      "gender": "male"
+    },
+    {
+      "name": "Dulac",
+      "firstName": "Lucien",
+      "location": "paris",
+      "role": "trainee",
+      "timeshitFucker": true,
+      "gender": "male"
+    },
+    {
+      "name": "Filleul",
+      "firstName": "Clément",
+      "location": "bordeaux",
+      "role": "trainee",
+      "timeshitFucker": true,
+      "gender": "male"
+    }
+  ]
+}
