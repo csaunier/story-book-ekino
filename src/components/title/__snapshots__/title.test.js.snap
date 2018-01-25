@@ -1,7 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`component Title should render 1`] = `
-<h1>
+<h1
+  className="wrapper"
+>
   text
 </h1>
 `;
