@@ -1,4 +1,5 @@
 {
+  "date": "2017-12-13T12:00:00",
   "team": [
     {
       "name": "Rabaix",
@@ -6,7 +7,8 @@
       "location": "paris",
       "role": "manitou",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "0"
     },
     {
       "name": "Vézien",
@@ -14,7 +16,8 @@
       "location": "paris",
       "role": "archi",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "1"
     },
     {
       "name": "Badruddin",
@@ -22,7 +25,8 @@
       "location": "london",
       "role": "archi",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "2"
     },
     {
       "name": "Amat",
@@ -30,7 +34,8 @@
       "location": "bordeaux",
       "role": "senior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "3"
     },
     {
       "name": "Rios Campo",
@@ -38,7 +43,8 @@
       "location": "paris",
       "role": "senior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "4"
     },
     {
       "name": "Crosnier",
@@ -46,7 +52,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "5"
     },
     {
       "name": "Cézard",
@@ -54,7 +61,8 @@
       "location": "bordeaux",
       "role": "confirmed",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "6"
     },
     {
       "name": "Jacquet",
@@ -62,7 +70,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "7"
     },
     {
       "name": "Soloviev",
@@ -70,7 +79,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "8"
     },
     {
       "name": "Pereira",
@@ -78,7 +88,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "9"
     },
     {
       "name": "Pétré",
@@ -86,7 +97,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "10"
     },
     {
       "name": "Viala",
@@ -94,7 +106,8 @@
       "location": "bordeaux",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "11"
     },
     {
       "name": "Saunier",
@@ -102,7 +115,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "12"
     },
     {
       "name": "Makelele",
@@ -110,7 +124,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "female"
+      "gender": "female",
+      "id": "13"
     },
     {
       "name": "Sarica",
@@ -118,7 +133,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "14"
     },
     {
       "name": "Rosato",
@@ -126,7 +142,8 @@
       "location": "bordeaux",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "15"
     },
     {
       "name": "Langis",
@@ -134,7 +151,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "16"
     },
     {
       "name": "Planchamp",
@@ -142,7 +160,8 @@
       "location": "paris",
       "role": "confirmed",
       "timeshitFucker": false,
-      "gender": "female"
+      "gender": "female",
+      "id": "17"
     },
     {
       "name": "Massing",
@@ -150,7 +169,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "18"
     },
     {
       "name": "Charpentier",
@@ -158,7 +178,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "19"
     },
     {
       "name": "Bigot",
@@ -166,15 +187,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": true,
-      "gender": "male"
-    },
-    {
-      "name": "Bigot",
-      "firstName": "Raphaël",
-      "location": "paris",
-      "role": "junior",
-      "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "20"
     },
     {
       "name": "Phuong",
@@ -182,7 +196,8 @@
       "location": "bordeaux",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "22"
     },
     {
       "name": "Nory",
@@ -190,7 +205,8 @@
       "location": "bordeaux",
       "role": "junior",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "23"
     },
     {
       "name": "Roger",
@@ -198,7 +214,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "female"
+      "gender": "female",
+      "id": "24"
     },
     {
       "name": "Cart-Lamy",
@@ -206,7 +223,8 @@
       "location": "bordeaux",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "25"
     },
     {
       "name": "Baudart",
@@ -214,7 +232,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "26"
     },
     {
       "name": "Gautier",
@@ -222,7 +241,8 @@
       "location": "bordeaux",
       "role": "junior",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "27"
     },
     {
       "name": "de Almeida",
@@ -230,7 +250,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "28"
     },
     {
       "name": "Arneau",
@@ -238,7 +259,8 @@
       "location": "bordeaux",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "female"
+      "gender": "female",
+      "id": "29"
     },
     {
       "name": "Sadik",
@@ -246,7 +268,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "30"
     },
     {
       "name": "Guillaume",
@@ -254,7 +277,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "31"
     },
     {
       "name": "Alberola",
@@ -262,7 +286,8 @@
       "location": "bordeaux",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "32"
     },
     {
       "name": "Rose",
@@ -270,7 +295,8 @@
       "location": "paris",
       "role": "junior",
       "timeshitFucker": false,
-      "gender": "female"
+      "gender": "female",
+      "id": "33"
     },
     {
       "name": "Assany",
@@ -278,7 +304,8 @@
       "location": "bordeaux",
       "role": "trainee",
       "timeshitFucker": false,
-      "gender": "male"
+      "gender": "male",
+      "id": "34"
     },
     {
       "name": "Dulac",
@@ -286,7 +313,8 @@
       "location": "paris",
       "role": "trainee",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "35"
     },
     {
       "name": "Filleul",
@@ -294,7 +322,8 @@
       "location": "bordeaux",
       "role": "trainee",
       "timeshitFucker": true,
-      "gender": "male"
+      "gender": "male",
+      "id": "36"
     }
   ]
 }

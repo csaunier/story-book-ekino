@@ -1,0 +1,18 @@
+.wrapper {
+  margin: 0 20px 20px 0;
+  padding: 20px;
+  border: 1px solid grey;
+  background: #fff;
+  border-radius: 3px;
+  display: inline-flex;
+  width: calc(33.33% - 20px);
+  box-sizing: border-box;
+  vertical-align: top;
+}
+
+.troncheWrapper {
+}
+
+.infosWrapper {
+  margin-left: 20px;
+}

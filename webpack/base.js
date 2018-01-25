@@ -1,5 +1,6 @@
 import Dotenv from 'dotenv-webpack'
 import HtmlWebpackPlugin from 'html-webpack-plugin'
+import CopyWebpackPlugin from 'copy-webpack-plugin'
 import path from 'path'
 import webpack from 'webpack'
 
@@ -70,6 +71,10 @@ export default {
         test: /\.yml$/,
         use: ['js-yaml-loader'],
       },
+      {
+        test: /\.json/,
+        loader: 'json-loader',
+      },
     ],
   },
 
@@ -90,5 +95,7 @@ export default {
       },
       description: process.env.DESCRIPTION,
     }),
+
+    new CopyWebpackPlugin([{ from: 'src/assets/img/team/', to: 'assets/img/team/' }]),
   ],
 }

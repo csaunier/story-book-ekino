@@ -1,7 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-const Title = ({ text }) => <h1>{text}</h1>
+import styles from './title.scss'
+
+const Title = ({ text }) => <h1 className={styles.wrapper}>{text}</h1>
 
 Title.propTypes = {
   text: PropTypes.string.isRequired,
