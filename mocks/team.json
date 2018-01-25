@@ -6,7 +6,7 @@
       "firstName": "Thomas",
       "location": "paris",
       "role": "manitou",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "0"
     },
@@ -15,7 +15,7 @@
       "firstName": "Loëck",
       "location": "paris",
       "role": "archi",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "1"
     },
@@ -24,7 +24,7 @@
       "firstName": "Shahzain",
       "location": "london",
       "role": "archi",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "2"
     },
@@ -33,7 +33,7 @@
       "firstName": "Guillaume",
       "location": "bordeaux",
       "role": "senior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "3"
     },
@@ -42,7 +42,7 @@
       "firstName": "Baptiste",
       "location": "paris",
       "role": "senior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "4"
     },
@@ -51,7 +51,7 @@
       "firstName": "Thibault",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "5"
     },
@@ -60,7 +60,7 @@
       "firstName": "Antonin",
       "location": "bordeaux",
       "role": "confirmed",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "6"
     },
@@ -69,7 +69,7 @@
       "firstName": "Charles",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "7"
     },
@@ -78,7 +78,7 @@
       "firstName": "Andrey",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "8"
     },
@@ -87,7 +87,7 @@
       "firstName": "Michel",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "9"
     },
@@ -96,7 +96,7 @@
       "firstName": "Jérémy",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "10"
     },
@@ -105,7 +105,7 @@
       "firstName": "Julien",
       "location": "bordeaux",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "11"
     },
@@ -114,7 +114,7 @@
       "firstName": "Cédric",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "12"
     },
@@ -123,7 +123,7 @@
       "firstName": "Josiane",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "female",
       "id": "13"
     },
@@ -132,7 +132,7 @@
       "firstName": "Dilhan",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "14"
     },
@@ -141,7 +141,7 @@
       "firstName": "François",
       "location": "bordeaux",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "15"
     },
@@ -150,7 +150,7 @@
       "firstName": "Luc Frédéric",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "16"
     },
@@ -159,7 +159,7 @@
       "firstName": "Aude",
       "location": "paris",
       "role": "confirmed",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "female",
       "id": "17"
     },
@@ -168,7 +168,7 @@
       "firstName": "Hugo",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "18"
     },
@@ -177,7 +177,7 @@
       "firstName": "Maxime",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "19"
     },
@@ -186,7 +186,7 @@
       "firstName": "Raphaël",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "20"
     },
@@ -195,7 +195,7 @@
       "firstName": "Alexis",
       "location": "bordeaux",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "22"
     },
@@ -204,7 +204,7 @@
       "firstName": "Maxime",
       "location": "bordeaux",
       "role": "junior",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "23"
     },
@@ -213,7 +213,7 @@
       "firstName": "Domitille",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "female",
       "id": "24"
     },
@@ -222,7 +222,7 @@
       "firstName": "Jean-Marie",
       "location": "bordeaux",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "25"
     },
@@ -231,7 +231,7 @@
       "firstName": "Mehdi",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "26"
     },
@@ -240,7 +240,7 @@
       "firstName": "Adrien",
       "location": "bordeaux",
       "role": "junior",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "27"
     },
@@ -249,7 +249,7 @@
       "firstName": "Valentin",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "28"
     },
@@ -258,7 +258,7 @@
       "firstName": "Megan",
       "location": "bordeaux",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "female",
       "id": "29"
     },
@@ -267,7 +267,7 @@
       "firstName": "Soufiane",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "30"
     },
@@ -276,7 +276,7 @@
       "firstName": "Benoit",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "31"
     },
@@ -285,7 +285,7 @@
       "firstName": "Thomas",
       "location": "bordeaux",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "32"
     },
@@ -294,7 +294,7 @@
       "firstName": "Kim",
       "location": "paris",
       "role": "junior",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "female",
       "id": "33"
     },
@@ -303,7 +303,7 @@
       "firstName": "Damien",
       "location": "bordeaux",
       "role": "trainee",
-      "timeshitFucker": false,
+      "timeshitFucker": "false",
       "gender": "male",
       "id": "34"
     },
@@ -312,7 +312,7 @@
       "firstName": "Lucien",
       "location": "paris",
       "role": "trainee",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "35"
     },
@@ -321,7 +321,7 @@
       "firstName": "Clément",
       "location": "bordeaux",
       "role": "trainee",
-      "timeshitFucker": true,
+      "timeshitFucker": "true",
       "gender": "male",
       "id": "36"
     }

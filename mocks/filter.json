@@ -1,0 +1,87 @@
+[
+  {
+    "value": "",
+    "label": "L'union fait la force",
+    "description":
+      "On ne connaît pas l'origine précise de ce proverbe. On le retrouve dans une fable d’Ésope, Les enfants désunis du laboureur  : « Autant l'union fait la force, autant la discorde expose à une prompte défaite ». Ainsi que sous une formulation différente dans la fable Le vieillard et ses enfants de La Fontaine : « Toute puissance est faible, à moins que d'être unie. »"
+  },
+  {
+    "key": "role",
+    "value": "manitou",
+    "label": "Le manitou",
+    "description":
+      "Personnage important dont l'autorité, l'influence sont reconnues ; Les sauvages n'entreprennent aucune hostilité sans consulter leur manitou."
+  },
+  {
+    "key": "role",
+    "value": "senior",
+    "label": "Les mecs qui pèsent",
+    "description":
+      "Espèce en voie de disparition, tout est mis en oeuvre pour tenter d'approcher un spécimen pour observation."
+  },
+  {
+    "key": "role",
+    "value": "archi",
+    "label": "Les mecs qui pèsent encore plus",
+    "description": "Va falloir faire un régime maintenant"
+  },
+  {
+    "key": "role",
+    "value": "trainee",
+    "label": "Les pauvres",
+    "description": "La ressource facile et bon marché #troll"
+  },
+  {
+    "key": "timeshitFucker",
+    "value": "true",
+    "label": "Les mauvais élèves",
+    "description": "Ces gens qui ne remplissent pas leur timesheet..."
+  },
+  {
+    "key": "location",
+    "value": "london",
+    "label": "Pas besoin de cours d'anglais",
+    "description": "God save the queen"
+  },
+  {
+    "key": "location",
+    "value": "bordeaux",
+    "label": "Les adeptes du vin",
+    "description":
+      "Hier je suis allée acheter des chocolatines mais ma poche s'est craqué alors j'étais dégoutée. Du coup j'ai bu du pessac léognan pour me réconforter."
+  },
+  {
+    "key": "role",
+    "value": "confirmed",
+    "label": "Enfin dans la cour des grands !",
+    "description": "Franklin sait compter deux par deux et lacer ses chaussures."
+  },
+  {
+    "key": "role",
+    "value": "junior",
+    "label": "Découverte du bac à sable",
+    "description":
+      "En jouant dans le sable, votre enfant s'amuse tout en faisant de nombreux apprentissages. Le sable est aussi excellent pour développer l’imagination de l’enfant. Comme il n’y a pas de façon unique de jouer avec le sable, l’enfant peut s’adonner à des activités variées selon l’inspiration du moment. Il peut décider de faire une montagne ou un gâteau, de fabriquer différents objets à l’aide de petits moules, d’enterrer des objets."
+  },
+  {
+    "key": "gender",
+    "value": "female",
+    "label": "Le pouvoir aux femmes",
+    "description":
+      "Les plus belles, les plus intelligentes, les plus sympatiques. Bref elles sont parfaites quoi. Quelle chance vous avez chez ekino."
+  },
+  {
+    "key": "gender",
+    "value": "male",
+    "label": "La testostérone",
+    "description":
+      "Hormone majoritaire chez ekino.  Chez les mammifères, la testostérone est sécrétée essentiellement par les gonades."
+  },
+  {
+    "key": "name",
+    "value": "Cézard",
+    "label": "L'empereur",
+    "description":
+      "Son destin exceptionnel marqua le monde romain et l'histoire universelle : ambitieux et brillant, il s’appuya sur le courant réformateur et démagogue pour son ascension politique ; stratège et tacticien habile, il repoussa les frontières romaines jusqu’au Rhin et à l’océan Atlantique en conquérant la Gaule, puis utilisa ses légions pour s’emparer du pouvoir. Il se fit nommer dictateur à vie, et fut assassiné peu après par une conspiration de sénateurs. Il fut divinisé et son fils adoptif Octave, vainqueur de Marc Antoine, acheva la réforme de la République romaine, qui laissa place au principat et à l’Empire romain."
+  }
+]
