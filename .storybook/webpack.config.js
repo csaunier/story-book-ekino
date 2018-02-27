@@ -2,13 +2,18 @@ require('babel-register')
 
 const path = require('path')
 
+const HappyPack = require('happypack')
+const webpack = require('webpack')
+
 const webpackConfig = require('../webpack/dev.babel').default
 
 module.exports = {
-  resolve: {
-    modules: [path.resolve(__dirname, '../src'), 'node_modules'],
-  },
-
   module: webpackConfig.module,
-  plugins: webpackConfig.plugins,
+
+  plugins: [
+    new HappyPack({ loaders: ['babel-loader'], verbose: false }),
+
+    new webpack.HotModuleReplacementPlugin(),
+    new webpack.NoEmitOnErrorsPlugin(),
+  ],
 }
