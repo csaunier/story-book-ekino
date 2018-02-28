@@ -5,6 +5,10 @@
 }
 
 .select {
-  border: 0;
+  border: solid 1px black;
   height: 40px;
+
+  &--6 {
+    border-color: #c90;
+  }
 }

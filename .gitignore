@@ -39,3 +39,4 @@ public
 
 # Jest cache
 .jest
+jest-test-results.json
