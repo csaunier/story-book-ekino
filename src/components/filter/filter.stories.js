@@ -5,16 +5,16 @@ import { linkTo } from '@storybook/addon-links'
 // import { LinkTo } from '@storybook/addon-links/react';
 import withTests from '../withTests'
 
-import Fitler from './filter'
+import Filter from './filter'
 
-storiesOf('Fitler', module)
+storiesOf('Filter', module)
   .add('nothing specific selected', () => (
-    <Fitler selectedFilter="" selectFilter={action('item selected')} />
+    <Filter selectedFilter="" selectFilter={action('item selected')} />
   ))
-  .add('selected item', () => <Fitler selectedFilter="6" selectFilter={action('item selected')} />)
+  .add('selected item', () => <Filter selectedFilter="6" selectFilter={action('item selected')} />)
   .addDecorator(withTests('filter'))
-  .add('This story shows test results from Fitler', () => <div>Jest results in storybook</div>)
+  .add('This story shows test results from Filter', () => <div>Jest results in storybook</div>)
 
-storiesOf('Fitler with link addon', module).add('selected item', () => (
-  <Fitler selectedFilter="" selectFilter={linkTo('Fitler', { selectedFilter: 'senior' })} />
+storiesOf('Filter with link addon', module).add('selected item', () => (
+  <Filter selectedFilter="" selectFilter={linkTo('Filter', { selectedFilter: 'senior' })} />
 ))

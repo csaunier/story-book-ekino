@@ -11,6 +11,7 @@ const Engineer = ({ engineer }) => (
       <Tronche
         src={`/assets/img/team/${engineer.firstName.toLowerCase()}-${engineer.name.toLowerCase()}.jpg`}
         defaultSrc="/assets/img/team/default.jpg"
+        gender={engineer.gender}
       />
     </div>
     <div className={styles.infosWrapper}>
