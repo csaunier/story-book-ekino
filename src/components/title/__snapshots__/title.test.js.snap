@@ -11,3 +11,20 @@ exports[`component Title should render 1`] = `
   </h1>
 </div>
 `;
+
+exports[`component Title should render with a subtitle 1`] = `
+<div
+  className="wrapper"
+>
+  <h1
+    className="title"
+  >
+    text
+  </h1>
+  <h2
+    className="subtitle"
+  >
+    subtitle
+  </h2>
+</div>
+`;

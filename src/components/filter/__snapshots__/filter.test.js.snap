@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component Title should render by default with all member 1`] = `
+<div
+  className="wrapper"
+>
+  <select
+    className="select select--"
+    onChange={[Function]}
+    value=""
+  >
+    <option
+      key="option--"
+      value=""
+    >
+      L'union fait la force
+    </option>
+    <option
+      key="option--"
+      value="manitou"
+    >
+      Le manitou
+    </option>
+    <option
+      key="option--"
+      value="senior"
+    >
+      Les mecs qui pèsent
+    </option>
+    <option
+      key="option--"
+      value="archi"
+    >
+      Les mecs qui pèsent encore plus
+    </option>
+    <option
+      key="option--"
+      value="trainee"
+    >
+      Les pauvres
+    </option>
+    <option
+      key="option--"
+      value="true"
+    >
+      Les mauvais élèves
+    </option>
+    <option
+      key="option--"
+      value="london"
+    >
+      Pas besoin de cours d'anglais
+    </option>
+    <option
+      key="option--"
+      value="bordeaux"
+    >
+      Les adeptes du vin
+    </option>
+    <option
+      key="option--"
+      value="confirmed"
+    >
+      Enfin dans la cour des grands !
+    </option>
+    <option
+      key="option--"
+      value="junior"
+    >
+      Découverte du bac à sable
+    </option>
+    <option
+      key="option--"
+      value="female"
+    >
+      Le pouvoir aux femmes
+    </option>
+    <option
+      key="option--"
+      value="male"
+    >
+      La testostérone
+    </option>
+    <option
+      key="option--"
+      value="6"
+    >
+      L'empereur
+    </option>
+  </select>
+</div>
+`;
+
+exports[`component Title should render with a selected filter 1`] = `
+<div
+  className="wrapper"
+>
+  <select
+    className="select select--senior"
+    onChange={[Function]}
+    value="senior"
+  >
+    <option
+      key="option--"
+      value=""
+    >
+      L'union fait la force
+    </option>
+    <option
+      key="option--"
+      value="manitou"
+    >
+      Le manitou
+    </option>
+    <option
+      key="option--"
+      value="senior"
+    >
+      Les mecs qui pèsent
+    </option>
+    <option
+      key="option--"
+      value="archi"
+    >
+      Les mecs qui pèsent encore plus
+    </option>
+    <option
+      key="option--"
+      value="trainee"
+    >
+      Les pauvres
+    </option>
+    <option
+      key="option--"
+      value="true"
+    >
+      Les mauvais élèves
+    </option>
+    <option
+      key="option--"
+      value="london"
+    >
+      Pas besoin de cours d'anglais
+    </option>
+    <option
+      key="option--"
+      value="bordeaux"
+    >
+      Les adeptes du vin
+    </option>
+    <option
+      key="option--"
+      value="confirmed"
+    >
+      Enfin dans la cour des grands !
+    </option>
+    <option
+      key="option--"
+      value="junior"
+    >
+      Découverte du bac à sable
+    </option>
+    <option
+      key="option--"
+      value="female"
+    >
+      Le pouvoir aux femmes
+    </option>
+    <option
+      key="option--"
+      value="male"
+    >
+      La testostérone
+    </option>
+    <option
+      key="option--"
+      value="6"
+    >
+      L'empereur
+    </option>
+  </select>
+</div>
+`;

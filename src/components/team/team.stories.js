@@ -10,8 +10,8 @@ storiesOf('Team', module)
   .addDecorator(
     backgrounds([
       { name: 'default', value: '#eee', default: true },
-      { name: 'twitter', value: '#00aced' },
-      { name: 'facebook', value: '#3b5998' },
+      { name: 'purple', value: '#630fc9' },
+      { name: 'blue', value: '#177abe' },
     ]),
   )
-  .add('without state', () => <Team team={team} />)
+  .add('full component', () => <Team team={team} />)
