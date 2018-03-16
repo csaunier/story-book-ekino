@@ -62,6 +62,7 @@
     "@commitlint/cli": "^5.2.3",
     "@storybook/addon-actions": "^3.3.15",
     "@storybook/addon-backgrounds": "^3.3.15",
+    "@storybook/addon-info": "^3.3.15",
     "@storybook/addon-jest": "^3.3.15",
     "@storybook/addon-links": "^3.3.15",
     "@storybook/addon-viewport": "^3.3.15",
