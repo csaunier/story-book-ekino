@@ -60,6 +60,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^5.2.3",
+    "@storybook/addon-a11y": "^3.3.15",
     "@storybook/addon-actions": "^3.3.15",
     "@storybook/addon-backgrounds": "^3.3.15",
     "@storybook/addon-info": "^3.3.15",
